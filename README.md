@@ -6,7 +6,7 @@
 ## 💫 About Me:
 
 - 🌍  I'm based in Gujarat, India
-- 🖥️  See my portfolio at https://parthnvaswani.tech
+- 🖥️  See my portfolio at 
 - 🧠  I'm learning WordPress
 - ⚡  I like to read books and draw sketches 
 
