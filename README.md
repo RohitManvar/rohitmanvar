@@ -1,18 +1,13 @@
 # Hi there, I'm Rohit Manvar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Data+Science+Professional;Machine+Learning+Engineer;Software+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Data Enthusiast; " alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
-
-I'm a passionate **Data Science & AI Professional** with a strong academic background in Computer Applications. Currently working as a **Data Science Intern at Plasmid**, I specialize in transforming complex data into actionable insights through machine learning, statistical analysis, and innovative software solutions.
-
-- 🎓 **MCA Graduate** from The Maharaja Sayajirao University of Baroda
+- 🎓 **MCA** from The Maharaja Sayajirao University of Baroda
 - 💼 **Data Science Intern** at Plasmid (Nov 2024 - May 2025)
-- 🌱 Currently exploring **Deep Learning** and **Advanced ML Techniques**
-- 💡 Passionate about solving real-world problems with **AI/ML**
-- 📍 Based in **Vadodara, Gujarat, India**
+- 📍 I'm Based in Gujarat, India
 
 ## 🛠️ Tech Stack
 
