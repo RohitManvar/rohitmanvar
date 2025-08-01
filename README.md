@@ -11,21 +11,19 @@
 
 ## 📊 GitHub Stats
 
-You said:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
 </div>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmanvar&theme=tokyonight&hide_border=true" alt="GitHub Streak"><br>
+  <img src="https://streak-stats.demolab.com/?user=rohitmanvar&theme=tokyonight&hide_border=true" alt="GitHub Streak"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 ## 📫 Connect with me:
 <div>  
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rohit-manvar-141261216/](https://www.linkedin.com/in/rohit-manvar-141261216/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-manvar-141261216/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rohitmanvar.github.io/portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitmanvar)
 
 </div>
-
