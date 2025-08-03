@@ -1,7 +1,7 @@
 # Hi👋, I'm Rohit Manvar!
 
 ## 💫 About Me:
-
+- 🌱 I’m currently learning Flutter and Flask
 - 🌍  I'm based in Gujarat, India
 - 🖥️  See my portfolio at 
 - ⚡  I like to read books and draw sketches 
