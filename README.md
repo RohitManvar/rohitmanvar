@@ -3,9 +3,10 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning Flutter and dbt  
 - 🌍  I'm based in Gujarat, India
-  
-## 💻 Tech Stack:
 
+![Profile Views](https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat)  
+
+## 💻 Tech Stack:
 <div> 
   <!-- 🌐 Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
@@ -46,14 +47,13 @@
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="100" height="40"/> 
 </div>
 
-
 ## 📊 GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
 </div>
 <div>
-  <img src="https://streak-stats.demolab.com/?user=rohitmanvar&theme=tokyonight&hide_border=true" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmanvar&theme=tokyonight&hide_border=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
