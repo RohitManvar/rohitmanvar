@@ -3,8 +3,7 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning Flutter and dbt  
 - 🌍  I'm based in Gujarat, India
-
-![Profile Views](https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat)  
+  
 
 ## 💻 Tech Stack:
 <div> 
