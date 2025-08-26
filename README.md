@@ -2,7 +2,8 @@
 
 ## 💫 About Me
 - 💻 Passionate about **Application Development and Data Engineering**  
-- 🌱 Currently learning **Flutter & dbt**  
+- 🌱 Currently learning **Flutter & dbt**
+- 📱 Currently working on **BookNest – an Android e-library app** [🔗 View Repository](https://github.com/RohitManvar/BookNest)
 - 🌍 Based in Vadodara, India  
 
 ---
