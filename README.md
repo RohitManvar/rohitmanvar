@@ -6,6 +6,8 @@
 - 📱 Currently working on **BookNest – an Android e-library app** [🔗 View Repository](https://github.com/RohitManvar/BookNest)
 - 🌍 Based in Vadodara, India  
 
+<img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
 ---
 
 ## 💻 Tech Stack
