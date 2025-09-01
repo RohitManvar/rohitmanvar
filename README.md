@@ -71,7 +71,7 @@
 ---
 
 ## 📬 Connect with Me<p align="left">
-  <a href="https://linkedin.com/in/rohitmanvar-141261216/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-manvar-141261216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rohitmanvar" target="_blank">
