@@ -1,11 +1,9 @@
 # Hi👋, I'm Rohit Manvar!  
 
 ## 💫 About Me
-- 💻 Passionate about **Application Development and Data Engineering**
-- 🌐  Visit my portfolio: [rohitmanvar.github.io](https://rohitmanvar.github.io/)
-- 🌱 Currently learning **Flutter & dbt**
-- 📱 Currently working on **BookNest – an Android e-library app** [🔗 View Repository](https://github.com/RohitManvar/BookNest)
-- 🌍 Based in Vadodara, India  
+💻 Passionate **Application Developer & Data Enthusiast**  
+🌱 Learning **Flutter & dbt** | Working on **BookNest – Android e-library app**  
+🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -57,12 +55,11 @@
 ---
 
 ## 🚀 Projects
-- 📚 **BookNest** – Android app with Firebase for e-library management
-- 💡 **Nous – Startup Idea Evaluator** – Web app to submit startup ideas,get AI ratings,and peer feedback
-- 🌦 **Weatherly** – JSP/Servlet + API for weather forecasting  
-- 🛒 **Retail Recommendation System** – Streamlit + FAISS + analytics dashboard  
-- 🎬 **Movie Recommendation System** – ML-based personalized suggestions  
-- 🎓 **College Management System** – Java Swing-based desktop app  
+- 📚 **BookNest** – Android e-library app built with **Firebase** & **Material UI**  
+- 💡 **Nous – Startup Idea Evaluator** – Flutter app to submit startup ideas,get AI ratings,and peer feedback
+- 🌦 **Weatherly** – **JSP/Servlet** + API for weather forecasting  
+- 🛒 **Retail Recommendation System** – Built with **Streamlit + FAISS**, includes sales analytics
+- 🎬 **Movie Recommendation System** – Collaborative + Content-based filtering  
 
 ---
 
@@ -70,9 +67,18 @@
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitmanvar&theme=tokyonight)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohitmanvar&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📬 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/rohitmanvar)  
-- 🐙 [GitHub](https://github.com/rohitmanvar)  
+## 📬 Connect with Me<p align="left">
+  <a href="https://linkedin.com/in/rohitmanvar-141261216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rohitmanvar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:rohitmanvar123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
