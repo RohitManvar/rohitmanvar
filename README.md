@@ -1,8 +1,8 @@
 # Hi👋, I'm Rohit Manvar!  
 
 ## 💫 About Me
-💻 Passionate **Application Developer & Data Enthusiast**  
-🌱 Learning **Flutter & dbt** | Working on **BookNest – Android e-library app**  
+💻 Passionate **Data Enthusiast & Application Developer**  
+🌱 Learning **DBT** | Working on **BookNest – Android e-library app**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
