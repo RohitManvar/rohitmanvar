@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 💻 Passionate **Data Enthusiast & Application Developer**  
-🌱 Learning **DBT** | Working on **BookNest – Android e-library app**  
+🌱 Learning **DBT** | Working on **BookNest – Android e-library app** and **Eventyv - .Net(MVC) Event Management** 
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
