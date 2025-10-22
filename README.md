@@ -1,7 +1,7 @@
-# Hi👋, I'm Rohit Manvar!  
+# Hi👋, I'm Rohit Manvar!
 
 ## 💫 About Me
-💻 Passionate **Data Enthusiast & Application Developer**  
+💻 Passionate **Data Engineering & Python Development**  
 🌱 Learning **DBT** | Working on **BookNest – Android** and **Custom-Elt-Project - Airflow/Airbyte**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
