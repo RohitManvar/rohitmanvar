@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 💻 Passionate **Data Engineering & Python Development**  
-🌱 Learning **DBT** | Working on **BookNest – Android** and **Custom-Elt-Project - Airflow/Airbyte**  
+🌱 Learning **DBT** | Working on **Custom-Elt-Project - Airflow/Airbyte**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
