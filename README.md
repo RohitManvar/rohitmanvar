@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 💻 Passionate **Data Engineering & Python Development**  
-🌱 Learning **DBT** | Working on **Custom-Elt-Project - Airflow/Airbyte/Data build tool/Docker**  
+🌱 Learning **DBT** | Working on **Custom-ELT Project - Airflow / Airbyte / dbt / Docker**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -31,7 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🔧 Backend / Databases / Cloud 
+### 🔧 Backend / Databases / Cloud  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -46,21 +46,25 @@
 
 ### 🛠 Frameworks / Tools  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=java&logoColor=white) 
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=apachetomcat&logoColor=white) 
-![Servlet](https://img.shields.io/badge/Servlet-00599C?style=flat-square&logo=java&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white) 
+![Swing](https://img.shields.io/badge/Swing-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=apachetomcat&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-00599C?style=flat-square&logo=java&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 - 📚 **BookNest** – Android e-library app built with **Firebase** & **Material UI**  
-- 💡 **Nous – Startup Idea Evaluator** – Flutter app to submit startup ideas,get AI ratings,and peer feedback
+- 💡 **Nous – Startup Idea Evaluator** – Flutter app to submit startup ideas, get AI ratings, and peer feedback  
 - 🌦 **Weatherly** – **JSP/Servlet** + API for weather forecasting  
-- 🛒 **Retail Recommendation System** – Built with **Streamlit + FAISS**, includes sales analytics
+- 🛒 **Retail Recommendation System** – Built with **Streamlit + FAISS**, includes sales analytics  
 - 🎬 **Movie Recommendation System** – Collaborative + Content-based filtering  
 
 ---
@@ -72,7 +76,8 @@
 
 ---
 
-## 📬 Connect with Me<p align="left">
+## 📬 Connect with Me
+<p align="left">
   <a href="https://www.linkedin.com/in/rohit-manvar-141261216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
