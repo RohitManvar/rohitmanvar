@@ -60,15 +60,6 @@
 
 ---
 
-## 🚀 Projects
-- 📚 **BookNest** – Android e-library app built with **Firebase** & **Material UI**  
-- 💡 **Nous – Startup Idea Evaluator** – Flutter app to submit startup ideas, get AI ratings, and peer feedback  
-- 🌦 **Weatherly** – **JSP/Servlet** + API for weather forecasting  
-- 🛒 **Retail Recommendation System** – Built with **Streamlit + FAISS**, includes sales analytics  
-- 🎬 **Movie Recommendation System** – Collaborative + Content-based filtering  
-
----
-
 ## 📊 GitHub Stats
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&theme=tokyonight)  
