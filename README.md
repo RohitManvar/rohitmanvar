@@ -1,7 +1,7 @@
 # Hi👋, I'm Rohit Manvar!
 
 ## 💫 About Me
-💻 Passionate **Data Engineering & Python Development**  
+💻 Passionate about **Data Engineering & Python Development**  
 🌱 Learning **DBT** | Working on **Custom-ELT Project - Airflow / Airbyte / dbt / Docker**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
