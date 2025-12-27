@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 💻 Passionate about **Data Engineering & Python Development**  
-🌱 Learning **DBT** | Working on **Philo-data-pipeline**  
+🌱 Learning **Pyspark** | Working on **Philo-data-pipeline**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
