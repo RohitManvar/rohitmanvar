@@ -1,5 +1,10 @@
 # Hi👋, I'm Rohit Manvar!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Data+Pipelines;Application+Development+%7C+FastAPI+%7C+PySpark;Learning+%26+Development+🚀" />
+</p>
+
+
 ## 💫 About Me
 💻 Passionate about **Data Engineering & AI/ML**  
 🌱 Learning **Pyspark** | Working on **PortChatbot**  
@@ -61,9 +66,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitmanvar&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rohitmanvar&theme=tokyonight&hide_border=true)
 
 ---
 
