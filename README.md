@@ -1,7 +1,7 @@
 # Hi👋, I'm Rohit Manvar!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Data+Pipelines;Application+Development+%7C+FastAPI+%7C+PySpark;Learning+%26+Development+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Data+Pipelines;Application+Development+%7C+FastAPI+%7C+PySpark;Learning+%26+Development" />
 </p>
 
 
