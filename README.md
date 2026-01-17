@@ -7,7 +7,6 @@
 
 ## 💫 About Me
 💻 Passionate about **Data Engineering & AI/ML**  
-🌱 Learning **AI/ML** | Working on **VSM Tool**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
 
 <img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
