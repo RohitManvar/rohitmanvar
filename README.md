@@ -1,15 +1,13 @@
-# Hi👋, I'm Rohit Manvar!
+# Hi👋, I'm Rohit Manvar
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Data+Pipelines;Application+Development+%7C+FastAPI+%7C+PySpark;Learning+%26+Development" />
 </p>
 
 
-## 💫 About Me
+## 💫 Something About Me
 💻 Passionate about **Data Engineering & AI/ML**  
 🌍 Based in Vadodara, India | ✉ [Portfolio](https://rohitmanvar.github.io/)
-
-<img src="https://komarev.com/ghpvc/?username=rohitmanvar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
