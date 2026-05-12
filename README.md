@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rohit Manvar 👋
+# Hi, I'm Rohit 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=3000&pause=1500&color=4A4A4A&center=true&vCenter=true&width=700&lines=Data+Engineering+%7C+AI+%26+ML+Enthusiast;Building+Scalable+Data+Pipelines;Application+Development+%7C+FastAPI;Learning+%26+Development" />
 
