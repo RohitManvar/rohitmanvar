@@ -19,8 +19,6 @@
 
 - Learning new technologies
 - Integrating LLMs into real-world applications
-- Learning system design and distributed architecture patterns
-- Shipping side projects that solve actual problems
 
 ---
 
