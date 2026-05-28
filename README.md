@@ -15,10 +15,6 @@
 
 ---
 
-###  What I'm focused on right now
-
-- Learning new technologies
-- Integrating LLMs into real-world applications
 
 ---
 
