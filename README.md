@@ -11,7 +11,7 @@
 ###  Something About Me
 
 - I'm passionate about **Data Engineering & AI/ML**
-- Based in Vadodara, India · [Portfolio](https://rohitmanvar.github.io/)
+- Based in India · [Portfolio](https://rohitmanvar.github.io/)
 
 ---
 
