@@ -12,24 +12,21 @@
 
 # 👋 Hi, I'm Rohit Manvar
 
-### Software Developer | Data Engineering | AI & Machine Learning
+### Software Developer | Data Engineering | AI
 
-I build **software systems where data, AI and automation come together**.
+I build **data-driven software systems combining AI, automation and modern application development**.
 
-My interests span backend engineering, data pipelines, AI/ML, cloud infrastructure and full-stack application development. I enjoy taking ideas from **concept → architecture → development → deployment → production**.
+I enjoy working across **data pipelines, AI/ML, APIs, databases and cloud infrastructure**, taking projects from **development to production**.
 
 ---
 
 ## 🧭 What I Do
 
-My work focuses on building practical, data-driven and production-oriented systems.
-
-* **Data Engineering** — Data pipelines, ETL/ELT, data processing and analytics
-* **Backend Development** — Python, FastAPI, PostgreSQL and API-driven systems
-* **AI & Machine Learning** — ML models, AI integrations, RAG and vector search
-* **Automation** — Turning manual business and engineering workflows into digital systems
-* **Cloud & DevOps** — Docker, CI/CD, Linux, VPS deployment and cloud platforms
-* **Full-Stack Development** — Building applications from database and APIs to frontend
+* **Data Engineering** — ETL/ELT, data processing and analytics
+* **AI & Machine Learning** — RAG, vector search, ML models and AI integrations
+* **Software Development** — Python, FastAPI, React and REST APIs
+* **Automation** — Digitalizing manual business and engineering workflows
+* **Cloud & DevOps** — Docker, Linux, VPS, Nginx and CI/CD
 
 ---
 
@@ -37,32 +34,29 @@ My work focuses on building practical, data-driven and production-oriented syste
 
 ### 💼 Faber Infinite — Software Developer
 
-Currently working on software and automation solutions for industrial and operational workflows.
+Working on **industrial software, automation and AI-powered applications**.
 
-* Developed **LFD Cloud**, a production-oriented platform for digitizing Lean Facility Design and Value Stream Mapping workflows.
-* Developed a **Value Stream Mapping (VSM) Automation Tool** for Lean and industrial engineering processes.
-* Designed and optimized **PostgreSQL database schemas** and **FastAPI backend APIs**.
-* Built data processing, calculation and analytics logic for operational and production-related metrics.
-* Worked on **AI integrations, RAG-based systems and intelligent automation**.
-* Developed frontend applications using **React, Vite and Tailwind CSS**.
+* Developed **LFD Cloud**, a platform for Lean Facility Design and Value Stream Mapping automation.
+* Built **FastAPI APIs, PostgreSQL databases and React applications**.
+* Implemented **AI integrations, RAG and vector search**.
+* Developed data processing, calculations and analytics for operational workflows.
 * Implemented authentication and role-based access systems.
-* Worked with **Linux/Ubuntu, VPS infrastructure, Docker, Nginx and GitHub Actions CI/CD**.
-* Handled application development, testing, deployment and production maintenance.
+* Managed **Ubuntu/Linux, VPS, Docker, Nginx and GitHub Actions CI/CD**.
+* Worked across **development → testing → deployment → production**.
 
 ### 📊 Plasmid — Data Science Intern
 
 * Worked with datasets containing **500,000+ records**.
 * Built data processing pipelines and statistical models.
-* Improved data extraction, processing and data accuracy.
-* Worked with cross-functional teams to generate actionable insights.
+* Worked on data extraction, processing and data quality.
 
 ---
 
 ## ☁️ LFD Cloud
 
-**LFD Cloud** is a cloud-based platform developed to digitize and automate **Lean Facility Design (LFD), Value Stream Mapping (VSM) and industrial engineering workflows**.
+**LFD Cloud** is a cloud-based platform for digitizing and automating **Lean Facility Design (LFD), Value Stream Mapping (VSM) and industrial engineering workflows**.
 
-I have worked across the complete application stack:
+I have worked across:
 
 **Frontend → Backend → Database → AI/Data Processing → Deployment**
 
@@ -76,8 +70,7 @@ I have worked across the complete application stack:
 * Production and operational analytics
 * Risk assessment and automation
 * AI-assisted recommendations
-* RAG and vector search integration
-* User authentication and role-based access
+* RAG and vector search
 * Excel/data import and processing
 * REST API development
 * Production deployment and infrastructure
@@ -90,41 +83,19 @@ I have worked across the complete application stack:
 
 ## ⭐ Featured Projects
 
-| Project                        | Description                                                                                         | Technologies                                 |
-| ------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| **LFD Cloud / VSM Automation** | Production-oriented platform for digitizing Value Stream Mapping and Lean Facility Design workflows | React, FastAPI, PostgreSQL, Python           |
-| **Enlyghten — Data Pipeline**  | Data pipeline that collects and structures information on 300+ philosophers across 25+ categories   | Python, FastAPI, PostgreSQL, Next.js, Docker |
-| **PopcornS**                   | Content-based movie recommendation system covering 4,800+ films                                     | Python, FastAPI, Scikit-learn, Next.js       |
-| **Vibe2Value**                 | AI-powered influencer search engine using embeddings and vector search                              | TypeScript, Node.js, PostgreSQL, pgvector    |
-| **Custom ELT Project**         | Automated PostgreSQL-to-PostgreSQL ELT pipeline using Docker Compose                                | Python, PostgreSQL, Docker                   |
-| **D.Ops**                      | Operations workspace for project planning, documents and sprint management                          | React, Vite, Tailwind, Supabase              |
-| **BookNest**                   | Android digital library application for managing and reading e-books                                | Flutter, Dart, Firebase                      |
-| **Weatherly**                  | Java web application consuming a live weather API                                                   | Java, JSP, Servlets, JavaScript              |
-
----
-
-## 🤖 AI & Data Engineering
-
-I'm particularly interested in building systems around:
-
-* **Retrieval-Augmented Generation (RAG)**
-* **Vector Databases & Semantic Search**
-* **AI-powered Recommendations**
-* **Machine Learning**
-* **ETL / ELT Pipelines**
-* **Data Processing & Analytics**
-* **PostgreSQL & pgvector**
-* **FastAPI-based AI Services**
-* **Data-driven Automation**
-* **AI Agents**
-
-One of my current areas of exploration is combining **structured business data + vector search + LLMs** to build useful AI-assisted applications.
+| Project                        | Description                                                          | Technologies                              |
+| ------------------------------ | -------------------------------------------------------------------- | ----------------------------------------- |
+| **LFD Cloud / VSM Automation** | Platform for Lean Facility Design and Value Stream Mapping workflows | React, FastAPI, PostgreSQL                |
+| **Enlyghten**                  | Data pipeline and platform covering 300+ philosophers                | Python, FastAPI, PostgreSQL, Next.js      |
+| **PopcornS**                   | Content-based movie recommendation system covering 4,800+ films      | Python, FastAPI, Scikit-learn             |
+| **Vibe2Value**                 | AI-powered influencer search using embeddings and vector search      | TypeScript, Node.js, PostgreSQL, pgvector |
+| **Custom ELT Pipeline**        | Automated PostgreSQL-to-PostgreSQL data pipeline                     | Python, PostgreSQL, Docker                |
 
 ---
 
 ## 🏗️ Production Systems
 
-I enjoy turning prototypes into real-world applications and working across the complete development lifecycle.
+I enjoy taking applications beyond development and working across the complete **development, deployment and production lifecycle**.
 
 ### Architecture
 
@@ -170,7 +141,7 @@ PostgreSQL    AI / RAG
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
 
 ### 💻 Programming
 
@@ -178,19 +149,15 @@ PostgreSQL    AI / RAG
 
 ### 🤖 Data & AI
 
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `FAISS` · `pgvector` · `RAG` · `Machine Learning`
+`Pandas` · `NumPy` · `Scikit-learn` · `PySpark` · `FAISS` · `pgvector` · `RAG` · `Machine Learning`
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 
 `FastAPI` · `Flask` · `Node.js` · `PostgreSQL` · `MySQL` · `MongoDB` · `SQLAlchemy` · `REST APIs`
 
 ### 🎨 Frontend
 
-`React` · `Next.js` · `Vite` · `JavaScript` · `TypeScript` · `Tailwind CSS`
-
-### 📊 Data Engineering
-
-`ETL` · `ELT` · `Apache Airflow` · `dbt` · `PySpark` · `Data Pipelines` · `PostgreSQL`
+`React` · `Next.js` · `Vite` · `Tailwind CSS`
 
 ### ☁️ Cloud & DevOps
 
@@ -198,104 +165,8 @@ PostgreSQL    AI / RAG
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohitManvar&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitManvar&layout=compact&theme=transparent&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitManvar&hide_border=true&theme=github-compact" />
-
-</div>
-
----
-
-## 🎓 Education
-
-### Master of Computer Applications — MCA
-
-**The Maharaja Sayajirao University of Baroda**
-2024 – 2026
-
-### Bachelor of Computer Applications — BCA
-
-**Atmiya University, Rajkot**
-2021 – 2024
-
----
-
-## 🔭 Currently Exploring
-
-* AI-powered Data Engineering
-* RAG Architectures
-* AI Agents & Automation
-* Scalable Backend Systems
-* Data Pipelines & Orchestration
-* Cloud Deployment
-* Production-grade AI Applications
-* Industrial Software Automation
-* Vector Search & Semantic Retrieval
-
----
-
-## 📈 My Development Approach
-
-I like working on problems that require more than just writing code.
-
-```text
-Problem
-   ↓
-Understand the Workflow
-   ↓
-Design the Architecture
-   ↓
-Build the Backend & Data Layer
-   ↓
-Develop the Application
-   ↓
-Integrate AI / Automation
-   ↓
-Test
-   ↓
-Deploy
-   ↓
-Monitor & Improve
-```
-
-My goal is to build systems that are not only functional, but also **maintainable, scalable and useful in real-world environments**.
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://rohitmanvar.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Rohit%20Manvar-blue?style=for-the-badge&logo=githubpages&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RohitManvar">
-  <img src="https://img.shields.io/badge/GitHub-RohitManvar-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Building with Data. Engineering with Purpose. Automating with AI.
-
-⭐ Feel free to explore my repositories and projects.
+### Building with Data • Engineering with Purpose • Automating with Passion
 
 </div>
