@@ -111,6 +111,27 @@ React / Vite applications · FastAPI backend services · PostgreSQL database des
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="Top languages"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmanvar&hide_border=true&theme=graywhite" alt="Streak"/>
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmanvar&hide_border=true&area=true&theme=github-light" alt="Contribution graph"/>
+
+</div>
+
+---
+
 <div align="center">
 
 **Building with Data · Engineering with Purpose · Automating with Passion**
