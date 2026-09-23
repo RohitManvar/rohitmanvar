@@ -115,10 +115,10 @@ React / Vite applications · FastAPI backend services · PostgreSQL database des
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rohitmanvar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmanvar&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="Top languages"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmanvar&hide_border=true&theme=graywhite" alt="Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RohitManvar&hide_border=true&theme=github-dark-blue&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com/?user=RohitManvar&hide_border=true&theme=default" alt="GitHub streak"/>
+</picture>
 
 </div>
 
@@ -126,9 +126,20 @@ React / Vite applications · FastAPI backend services · PostgreSQL database des
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmanvar&hide_border=true&area=true&theme=github-light" alt="Contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/contributions-dark.svg"/>
+  <img width="100%" src="./dist/contributions-light.svg" alt="Contribution graph"/>
+</picture>
 
 </div>
+
+---
+
+## Something Extra
+
+A small puzzle about the thing I build every day: rotate the tiles to route data from source, through transform, into the database.
+
+[![Play Pipeline Puzzle](https://img.shields.io/badge/%E2%96%B6%20Play-Pipeline%20Puzzle-0969da?style=flat-square)](https://rohitmanvar.github.io/pipeline/)
 
 ---
 
