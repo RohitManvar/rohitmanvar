@@ -135,14 +135,6 @@ React / Vite applications · FastAPI backend services · PostgreSQL database des
 
 ---
 
-## Something Extra
-
-A small puzzle about the thing I build every day: rotate the tiles to route data from source, through transform, into the database.
-
-[![Play Pipeline Puzzle](https://img.shields.io/badge/%E2%96%B6%20Play-Pipeline%20Puzzle-0969da?style=flat-square)](https://rohitmanvar.github.io/pipeline/)
-
----
-
 <div align="center">
 
 **Building with Data · Engineering with Purpose · Automating with Passion**
