@@ -386,6 +386,7 @@
 <rect class="c" style="animation-delay:2.35s" x="760" y="50" width="11" height="11" rx="2" fill="#0d2d5c"><title>2026-09-22: 1</title></rect>
 <rect class="c" style="animation-delay:2.35s" x="760" y="64" width="11" height="11" rx="2" fill="#0d2d5c"><title>2026-09-23: 6</title></rect>
 <rect class="c" style="animation-delay:2.35s" x="760" y="78" width="11" height="11" rx="2" fill="#0d2d5c"><title>2026-09-24: 1</title></rect>
-<rect class="c" style="animation-delay:2.35s" x="760" y="92" width="11" height="11" rx="2" fill="#151b23"><title>2026-09-25: 0</title></rect>
-<text class="l" style="animation-delay:2.40s" x="32" y="138" font-size="10" fill="#9198a1">1,773 contributions in the last year</text>
+<rect class="c" style="animation-delay:2.35s" x="760" y="92" width="11" height="11" rx="2" fill="#0d2d5c"><title>2026-09-25: 12</title></rect>
+<rect class="c" style="animation-delay:2.35s" x="760" y="106" width="11" height="11" rx="2" fill="#151b23"><title>2026-09-26: 0</title></rect>
+<text class="l" style="animation-delay:2.40s" x="32" y="138" font-size="10" fill="#9198a1">1,785 contributions in the last year</text>
 </svg>
